@@ -69,7 +69,6 @@ section h2 {
 }
 
 .articles article a {
-    background-color: blue;
     padding: .5rem;
     display: inline-block;
     margin-top: .5rem;
@@ -113,4 +112,21 @@ section h2 {
 
 #economy .articles article a {
     background-color: #ff9f1a;
+}
+
+#games {
+    background-color: rgba(255, 0, 0, 0.562);
+}
+
+
+#games .articles article a {
+    background-color: rgba(255, 0, 0, 0.562);
+}
+
+#tecnology {
+    background-color: rgb(60, 184, 255);
+}
+
+#tecnology .articles article a {
+    background-color: rgb(8, 74, 255);
 }
